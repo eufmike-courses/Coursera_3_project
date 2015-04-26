@@ -1,4 +1,4 @@
-Data Science: Getting and Cleaning Data
+##Data Science: Getting and Cleaning Data
 
 The run_analysis.R is designed for the course project in Getting and Cleaning Data(Coursera). In the course, students are asked to clean the data set downloaded from the following url. 
 
